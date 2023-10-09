@@ -32,12 +32,15 @@ réalisation des objectifs et des livrables
 préconisation, d'un SWOT, benchmark..
 Lien du site web: https://infonum.readandride.fr
 
-
 ## Compétences
-- Communication digitale
-- Rédaction web
-- ...
+• Logiciels: Suite Adobe, Zettlr, Keynote, Miro, Zotero, GitHub
+• Communication: Excellentes capacités orales et rédactionnelles 
+• Gestion de projet: Aptitude à géger, organiser et mettre en place un projet  
+
+## Langues
+• Francais: Langue Martenelle
+• Anglais: Très bonne maîtrise, presque courante
 
 ## Contact
-- Email: exemple@email.com
-- LinkedIn: [Mon LinkedIn](https://www.linkedin.com/in/monprofil/)
+- Email: rubenpujols64@gmail.com
+- LinkedIn: [Ruben Pujols](www.linkedin.com/in/ruben-pujols-6973a0254)
